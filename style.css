@@ -129,7 +129,7 @@ body {
 }
 
 .menu {
-    display: block; /*a 태그는 가로배치 이므로 세로배치로 변경*/
+    display: block;
     padding: 7px;
     border-bottom: 0.1ch solid #eee;
     text-align: center;
